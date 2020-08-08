@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-https://raw.githubusercontent.com/JavierSandoval/JavierSandoval/logotipo.png
+![Logotipo](logotipo.png)
 
 <!--
 **JavierSandoval/JavierSandoval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
